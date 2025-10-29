@@ -10,6 +10,10 @@ Just a basic Fall-themed developer dashboard I made for Siege. Enjoy the eye can
 - Pull Github user stats
 - Track a Github project stats
 
+## Screenshot
+<img width="1920" height="959" alt="image" src="https://github.com/user-attachments/assets/5bd79451-3ab1-4683-8000-1b6291c71943" />
+
+
 ## Run
 
 Install dependencies:
